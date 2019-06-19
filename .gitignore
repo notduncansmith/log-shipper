@@ -1,0 +1,3 @@
+log-shipper
+cmd/log-receiver/log-receiver
+*.db
