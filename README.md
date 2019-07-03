@@ -67,3 +67,13 @@ func NewMyEvent(sessionID string, detail string) MyEvent {
 }
 
 ```
+
+**This project is graciously sponsored by Dubsado ❤️**
+
+[![Dubsado CRM](https://global-uploads.webflow.com/5bd3a12688389fdba3a24e77/5bd3a12688389f0bc7a24ea8_dubsado-logo.png)](https://dubsado.com)
+
+## License
+
+MIT License
+
+Copyright © 2019 Duncan Smith
